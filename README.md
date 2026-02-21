@@ -5,10 +5,6 @@
 
 A straightforward console-based calculator program written in C as part of my CodeAlpha C Programming Internship. This program performs basic arithmetic operations with a clean, user-friendly interface.
 
-## 🧮 Live Demo
-
-[Add your video explanation link here - Remember to post on LinkedIn as per internship instructions]
-
 ## 📋 Overview
 
 This calculator program provides a simple yet effective way to perform basic mathematical operations. It demonstrates fundamental C programming concepts including user input handling, switch-case statements, and basic arithmetic operations with proper error handling.
